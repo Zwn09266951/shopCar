@@ -1,6 +1,6 @@
 # shopcar
 
-> A Vue.js project
+> 基于Vue全家桶 对慕课网购物车多页面Dome的优化，并运用了一些ES6的写法，用到的不是很多，在今后的个人练习当中能运用到更多。
 
 ## Build Setup
 
